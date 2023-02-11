@@ -1,2 +1,2 @@
 # ideaStudyRepository
-ideaStudy仓库,学习idea
+ideaStudy仓库,学习idea!!!!!!!!!
